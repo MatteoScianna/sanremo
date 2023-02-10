@@ -10,3 +10,6 @@ File "wordcloud.py" creates a wordcloud with most frequent words appearing (stop
 After having given to each song a positive and a negative score, obtained with the nlp toolkit "SentIta" (https://nicgian.github.io/Sentita/), various artists are plotted according to their scores. 
 
 ![alt text](https://github.com/MatteoScianna/sanremo/blob/main/img/positive_vs_negative.png)
+
+## References
+<br> [1] https://nicgian.github.io/Sentita/
